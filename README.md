@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 162007</h1>
-<h3 align="center">i hate my life and i want to kill myself</h3>
+<h3 align="center">i am existing</h3>
 
 - 🔭 I’m currently working on **32014 2**
 
